@@ -36,5 +36,12 @@ Flawless leverages JSON Server for backend functionalities, facilitating efficie
 ## Deployment
 The frontend of this project is hosted on Netlify, providing a fast and reliable hosting solution for the website. The backend is deployed on Render, ensuring seamless data management.
 
-## Project Deployment Link: https://nykacopyflawless.netlify.app
+## Project Deployment Link: 
+https://nykacopyflawless.netlify.app
 Feel free to explore Flawless and indulge in a delightful shopping experience curated for beauty enthusiasts.
+
+## GitHub Repository:
+https://github.com/Sandykr29/nyka_copy_flawless
+
+## Backend Deployment:
+https://flawless-backend.onrender.com/
