@@ -21,6 +21,7 @@ The checkout process on Flawless is designed for security and efficiency. Users 
 The home page serves as an enticing introduction to Flawless, featuring an attractive layout that highlights popular products, ongoing offers, and new arrivals. This visually appealing landing page serves as a gateway for users to explore the entirety of the website.
 
 ## Technologies Used
+
 ## Frontend:
 The frontend of Flawless is meticulously crafted using the following technologies:
 
